@@ -3,7 +3,9 @@ Bem vindos ao meu perfil.
 Meu nome e Bárbara de Oliveira Santos.
 
 Estou estudando na Alura.
-Estou me desenvolvendo na Linguagem Javascript
+
+Estou me desenvolvendo na Linguagem Javascript.
+
 Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos. 
 
 Voce pode entrar em contato comigo:
